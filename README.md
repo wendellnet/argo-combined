@@ -38,3 +38,4 @@ Artigo complementar sobre sealed-secrets(https://medium.com/codex/sealed-secrets
     
 
     kubectl apply --filename project.yaml
+     kubectl apply --filename apps.yaml
