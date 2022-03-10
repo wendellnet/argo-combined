@@ -9,7 +9,7 @@ spec:
   project: staging
   source:
     path: kustomize/overlays/staging
-    repoURL: https://github.com/vfarcic/argo-combined-app
+    repoURL: https://github.com/wendellnet/argo-combined-app
     targetRevision: HEAD
     kustomize:
       images:
